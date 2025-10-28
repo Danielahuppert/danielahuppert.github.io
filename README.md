@@ -8,5 +8,5 @@ I'm currently on a rotation at [Prof. Reiner's lab](https://www.weizmann.ac.il/m
 
 ## My project
 Deciphering CUL4B protein interactions during specific stages of the cell cycle.
----
+
 ![daniela huppert](https://github.com/Danielahuppert/danielahuppert.github.io/blob/main/my%20picture.jpg)
